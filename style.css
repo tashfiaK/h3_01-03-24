@@ -1,0 +1,14 @@
+h1 {
+    color: green;
+}
+#head {
+    border-bottom: 1px solid royalblue;
+}
+form {
+    margin: 20px 0px;
+}
+.t_table {
+    color: blue;
+    background-color: aquamarine;
+    border: 2px solid black;
+}
